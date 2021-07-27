@@ -1,4 +1,4 @@
-# KitchenKare
+# Kitchen Kare
 
 STEM II is a group engineering project that Mass Academy students complete during D term of junior year. My group, STEMgineers, consisted of myself, Ronit Avadhuta, Kate Connoni, and Rachel Haynes.
 
